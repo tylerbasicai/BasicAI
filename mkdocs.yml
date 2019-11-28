@@ -1,0 +1,12 @@
+site_name: BasicAI Platform Documentation
+nav:
+    - Platform Overview: index.md
+    - Root Module: root.md
+    - Admin Module: admin.md
+    - Team Module: team.md
+    - API: API.md
+
+theme: material
+extra_css: [extra.css]
+
+ 
