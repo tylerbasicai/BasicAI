@@ -1,0 +1,2 @@
+# BasicAI
+BasicAI Platform Documentation
